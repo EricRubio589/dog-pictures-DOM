@@ -21,3 +21,11 @@ h1 {
     color: black;
     font-size: 25px;
 }
+
+.picturesContainer {
+    display: none;
+}
+
+.picturesContainer img {
+    width: 50%;
+}
